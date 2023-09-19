@@ -9,8 +9,8 @@ A minesweeper clone written in C++ using SFML. Features include custom width and
 | - | - |
 | `R` | Regenerate the grid |
 | `Esc` | Reveal menu/Hide menu |
-| `C` | Reveal the mines |
-| `V` | Reveal the whole grid |
+| `V` | Reveal the mines |
+| `C` | Reveal the whole grid |
 
 ## Compilation
 I personally used MSVC to create the project and compile it, however, I think it can be compiled using any C++ toolchain as long as it is linked with SFML.
